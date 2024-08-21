@@ -1,0 +1,63 @@
+.SLP img{
+    background-color: rgb(255, 255, 255);
+    width: 100%; height: 250px;
+    }
+    .general{
+        display: flex; flex-direction: row;
+        background-color: rgb(255, 255, 255);
+    }    
+    .general h2{
+        font-size: 20px;
+    }    
+    .general h3{
+        font-size: 18px;
+    }    
+    .general p{
+        font-size: 15px;
+    }    
+    .SLP span a{
+    color:rgb(43, 4, 184);
+    }
+    .QRCM {
+        display: flex; flex-direction: column;
+      margin: 5px;
+       background-color: rgb(238, 237, 237);
+    }
+    .SLP {
+        display: flex; flex-direction: column;
+        margin: 5px;
+        
+        background-color: rgb(255, 255, 255);
+    }
+    .QRCM img{
+        width: 100%; height: 250px; 
+        background-color: rgb(151, 150, 150); 
+    }
+    .QRCM a{
+        color: aqua;
+        text-decoration: none;
+    }
+    .QRCM span a{
+        color:rgb(43, 4, 184);
+    }
+    .ARGW{
+        display: flex; flex-direction: column;
+        margin: 5px;
+       
+        background-color: rgb(151, 150, 150);
+    }
+    .ARGW img{
+        width: 100%; height: 250px;
+        background-color: rgb(255, 255, 255);  
+    }
+    .ARGW a{
+        text-decoration: none;
+        color: aqua;
+    }
+    .ARGW span a{
+        color:rgb(43, 4, 184);
+    }
+    .SLP a{
+        text-decoration: none;
+        color: aqua;
+    }
